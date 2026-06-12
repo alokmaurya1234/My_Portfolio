@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Hide default cursor on desktop devices, keep it normal on mobile */
+@media (min-width: 1024px) {
+  body, button, a, .cursor-pointer {
+    cursor: none !important;
+  }
+}
