@@ -143,7 +143,7 @@ export default function Contact() {
 
         {/* ================= FOOTER BOTTOM ================= */}
         <div className="border-t border-white/10 pt-6 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-gray-500 font-medium">
-          <p>© {new Date().getFullYear()} Alok Maurya. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Alok Moriya. All rights reserved.</p>
           
           <div className="flex items-center gap-2">
             <span className="w-1.5 h-1.5 rounded-full bg-green-500 animate-pulse"></span>

@@ -43,7 +43,7 @@ export default function About() {
             <div className="h-[3px] w-[60px] bg-[#811111] mb-8" />
             
             <p className="text-[17px] leading-[1.8] text-gray-700 font-medium mb-6">
-              I'm <span className="text-[#811111] font-bold">Alok Maurya</span>, a web developer and content creator based in Bangalore. 
+              I'm <span className="text-[#811111] font-bold">Alok Moriya</span>, a web developer and content creator based in Bangalore. 
             </p>
             
             <p className="text-[17px] leading-[1.8] text-gray-700 font-medium">
