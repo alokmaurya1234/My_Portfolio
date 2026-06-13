@@ -20,7 +20,7 @@ export default function Hero() {
               transition={{ duration: 0.5 }}
               className="uppercase tracking-[3px] text-[#811111] text-sm mb-3 font-semibold"
             >
-              Hello, I'm <span className="font-bold">Alok Maurya</span>
+              Hello, I'm <span className="font-bold">Alok Moriya</span>
             </motion.p>
 
             <motion.h1
